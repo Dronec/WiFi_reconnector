@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId = "com.au.wifireconnector"
         minSdk = 21
-        targetSdk = 35
+        targetSdk = 30
         versionCode = 1
         versionName = "1.0"
 
